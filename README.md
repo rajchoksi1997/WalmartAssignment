@@ -13,7 +13,7 @@ To ensure maximum customer safety we take a buffer of three seats and one row fo
 It allows the users to book their seats and return them with the tickets or appropriate message if the seats are not available or full.
 
 <h3>Classes:</h3>
-eachRow: Class for a single row in the theater.</n>
-Theater: Class for theater and all the rows in it.</n>
-movieTheaterInterface: Interface for the theater which has the necessary methods to be implemented by all the classes extending it.</n>
-Driver: This is where the execution of the program begins.</n>
+eachRow: Class for a single row in the theater.<br/>
+Theater: Class for theater and all the rows in it.<br/>
+movieTheaterInterface: Interface for the theater which has the necessary methods to be implemented by all the classes extending it.<br/>
+Driver: This is where the execution of the program begins.<br/>
