@@ -1,6 +1,6 @@
 The program is design for a seating assignment that maximizes both customer satisfaction and customer safety.
 
-Assumptions
+<h3>Assumptions</h3>
 Seats will be booked in FIFO fasion i.e., on a first-come first-serve basis.
 Initial reservations will have the seats farthest from the screen for better visibility and to ensure maximum customer satisfaction.
 To maximise the customer satisfaction further we book all the seats in a single reservation together.
@@ -9,7 +9,7 @@ If the no.of seats requested are more than the available seats in the theater we
 When the requested no.of seats in a reservation is more than 20 i.e., maximum of row capacity we inform the customer to consult the box office since it will be marked as a bulk booking.
 To ensure maximum customer safety we take a buffer of three seats and one row for each reservation.
 
-Functionalities of the program
+<h3>Functionalities of the program</h3>
 It allows the users to book their seats and return them with the tickets or appropriate message if the seats are not available or full.
 
 Classes:
