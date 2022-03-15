@@ -6,7 +6,6 @@ Initial reservations will have the seats farthest from the screen for better vis
 To maximise the customer satisfaction further we book all the seats in a single reservation together.<br/>
 If the next available fartest row from the screen can't fit all the seats of a reservation then we move on to the next available row.<br/>
 If the no.of seats requested are more than the available seats in the theater we inform the customer that the reservation is full.<br/>
-Number of seats required cant be Zero <br/>
 To ensure maximum customer safety we take a buffer of three seats and one row for each reservation.<br/>
 
 
